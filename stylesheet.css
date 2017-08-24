@@ -1,0 +1,23 @@
+img{
+
+  border: 8px solid black;
+  border-radius: 115px;
+  position:relative;
+
+  display:block;
+  }
+body{
+  background: #366E11;
+}
+p{
+  position:relative;
+  width:45%;
+}
+article{
+  display:inline-block;
+  width:70%;
+}
+aside{
+  display:inline-block;
+  width:25%;
+}
